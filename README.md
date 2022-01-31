@@ -43,8 +43,3 @@
 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%">
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=nord&&color=FFFFF0column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zarlykovbaiel&theme=nord&color=FFFFF0&line=FFFFF0&point=FFFFFF&hide_border=true" /></a>
-</p> -->
