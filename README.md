@@ -33,7 +33,7 @@
 
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909??style=plastic&logo=telegram)](https://t.me/https://t.me/wwind9)
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=plastic&logo=telegram)](https://t.me/https://t.me/wwind9) -->
 
 
 
