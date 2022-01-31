@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
-![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio) --> -->
+![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio) -->
 
 
 
@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zarlykovbaiel&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Baiel's github Statistics"  width="49.5%"/>
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Kiri's github top-langs" width="49.5%">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%">
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=nord&&color=FFFFF0column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
