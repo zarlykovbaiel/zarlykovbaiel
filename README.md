@@ -5,7 +5,7 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-1E90jFF?style=flat-square&logo=python)
-![Django](https://img.shields.io/lbadge/-Django-0aad48?style=flat-square&logo=Django)
+![Django](https://img.shields.io/lbadge/-Djdango-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) -->
 
 <!-- **Databases**
