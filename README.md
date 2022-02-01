@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/zarlykovbaiel/zarlykovbaiel/blob/master/kiri3914.gif?raw=true" width="600" height="280"/>
+<!-- <img align="right" alt="GIF" src="https://github.com/zarlykovbaiel/aaa/blob/master/kiri3914.gif?raw=true" width="600" height="280"/> -->
 
 <!-- **Back-end**
 
