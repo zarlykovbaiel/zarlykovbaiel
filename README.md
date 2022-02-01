@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-Gi,tHub-181717?style=flat-square&logo=github)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
-![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio) -->
+![Vscode](https://img.shields.io/badge/-VScode-4d6a2f1?style=flat-square&logo=VisualStudio) -->
 
 
 
