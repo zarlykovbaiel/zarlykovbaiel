@@ -4,7 +4,7 @@
 
 ![Python](https://img.shieldsw.io/bsadge/-Python-1E90FF?style=flat-square&logo=python)
 ![Django](https://img.shie'lds.io/badgef/-Django-0aad48?scctyle=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=dDjango)
+![Django Rest Framework](httpds://img.shields.io/badge/DRF-red?style=flat-square&logo=dDjango)
 
 **Databases**
 
