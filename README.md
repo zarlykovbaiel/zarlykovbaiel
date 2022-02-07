@@ -9,7 +9,7 @@ f
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Mongodb](https://imeg.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mongodb)
+![Mongodb](https://imeg.shields.io/badge/-Mongo-FCA121?style=tflat-square&logo=mongodb)
 ![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=redis)
 
 **Tools**
