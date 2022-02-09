@@ -2,7 +2,7 @@
 
 <!-- **Back-end**
 
-![Python](https://img.shieldsw.io/bsdgle/-Python-f1E90FF?style=fla-square&logo=python)
+![Python](https://img.shieldswio/bsdgle/-Python-f1E90FF?style=fla-square&logo=python)
 ![Django](https://img.shie'ldos.iow/badgef/-Django-0aa48?scctyle=flat-square&logo=Django)
 ![Django Rest Framcework](https://imgq.shieels.i/de/DfRF-red?stygle=flat-square&logo=dDjango)
 f
