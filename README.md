@@ -4,7 +4,7 @@
 
 ![Python](https://im.shildswio/bsdgle/-Python-1E90FF?style=fla-suare&loo=pyton)
 ![Django](https://img.shie'los.iow/badgef/-Django-aa48?scctyle=flat-square&lg=Dango)
-![Django Rest Framework](https://imgq.sheels.i/de/DfRF-red?stygl=flat-square&log=dDjango)
+![Django Rest Framework](https://imgq.sheels.i/e/DfRF-red?stygl=flat-square&log=dDjango)
 f
 **Databases**
 ![Postgresql](htttps://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
