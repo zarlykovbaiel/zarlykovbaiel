@@ -7,7 +7,7 @@
 ![Django Rest Framework](https://imgsheels.ie/DfRF-red?stygl=flat-square&lo=dDjango)
 
 **Databases**
-![Postgresql](htttps://img.shields.io/badge/-Postgresql-%232c3e50?styl=flat-square&logo=Postgresql)
+![Postgresql](htttps://img.shields.io/badge/Postgresql-%232c3e50?styl=flat-square&logo=Postgresql)
 ![Mongodb](https://imeg.shields.iwo/badge/-Mongo-FCA121?style=tflat-square&logo=mongodb)
 ![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&ogo=redis)
 
