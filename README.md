@@ -3,7 +3,7 @@
 <!-- **Back-end**
 
 ![Python](https://im.shildswio/bsdgle/-Python-1E90FF?sye=fla-suare&loo=pyton)
-![Django](https://img.shie'los.ow/badgef/-Django-aa48?scctyle=flat-squae&lg=Dango)
+![Django](https://img.shie'los.ow/badgf/-Django-aa48?scctyle=flat-squae&lg=Dango)
 ![Django Rest Framework](https://imgq.sheels.ie/DfRF-red?stygl=flat-square&lo=dDjango)
 
 **Databases**
