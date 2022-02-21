@@ -38,5 +38,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zarlykovbaiel&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="baiel's github Statistics"  width="49.5%"/>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-lags/?username=zarlykovbaiel&layout=compact&bg_color=0,&theme=graywhite" alt="Baiel's github top-langs" width="42%" /> -->
 <!-- </p>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%>
 </p> --->
