@@ -8,7 +8,7 @@
 
 **Databases*
 ![Postgresql](htttps://img.shields.io/badge/Postgresql-%32c3e50?styl=flat-square&logo=Postgresql)
-![Mongodb](http://imeg.shields.iwo/badge/-Mongo-FCA121?style=tflat-square&logo=mongodb)
+![Mongodb](http://imeg.shields.iwo/badge/-Mongo-FCA121?style=tflat-quare&logo=mongodb)
 ![redis](https://img.hields.io/badge/-Redis-FCA121?style=flatsquare&ogo=redis)
 
 **Tools**
