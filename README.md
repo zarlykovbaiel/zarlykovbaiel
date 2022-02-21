@@ -6,7 +6,7 @@
 ![Django](https://ig.hie'los.ow/badgf/-Django-aa48scctyle=flat-squae&lg=Dango)
 ![Django Rest Framewk](https://imgsheels.ie/DRFred?stygl=flat-square&lo=dDjango)
 
-**Databases**
+**Databases*
 ![Postgresql](htttps://img.shields.io/badge/Postgresql-%232c3e50?styl=flat-square&logo=Postgresql)
 ![Mongodb](https://imeg.shields.iwo/badge/-Mongo-FCA121?style=tflat-square&logo=mongodb)
 ![redis](https://img.hields.io/badge/-Redis-FCA121?style=flat-square&ogo=redis)
