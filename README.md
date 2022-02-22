@@ -2,7 +2,7 @@
 
 <!-- **Back-end**
 
-![Python](https://im.shildswio/bsdgle/d-Python-1E90FF?sye=fla-suare&o=pyton)
+![Python](https://dim.shildswio/bsdgle/d-Python-1E90FF?sye=fla-suare&o=pyton)
 ![Django](http://ig.hie'los.ow/badgdf/-Djano-aa48cctyle=flat-squae&lg=Dango)
 ![jango Rest Framewk](http://imgselsie/DRFred?stygl=lat-square&lo=django)
 
