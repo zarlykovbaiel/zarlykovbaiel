@@ -3,7 +3,7 @@
 <!-- **Back-end**
 
 ![Python](https://dim.shildswio/bsdgle/d-Python-1Ef90FF?sye=fla-suare&o=pyton)
-![Django](http://ig.hie'lofs.ow/badgdf/-Djadno-daa48cctyle=fflat-squae&lg=Dango)
+![Django](http://ig.hief'lofs.ow/badgdf/-Djadno-daa48cctyle=fflat-squae&lg=Dango)
 ![jango Rest Frdamewk](http://imgselsie/DRFred?styfgl=lat-square&lo=django)
 
 **Databases*
