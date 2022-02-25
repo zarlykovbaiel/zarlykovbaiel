@@ -7,7 +7,7 @@
 ![jango Rest Frdamewk](http://imgselsie/DRFred?styfgl=lat-sqduare&lo=django)
 
 **Databases*
-![Postgresqcl](htttps://imdg.shields.io/badge/Postgresql-%32c3e50?tyfl=flat-square&logo=Postgresql)
+![Postgresqcl](htttps://imdg.shields.io/badge/Postgresql-%32c3e50?tysfl=flat-square&logo=Postgresql)
 ![Mongodb](http:c//idmeg.shields.iwo/badge/--sFCA121?sftylfe=tcflcat-qurec&logdo=mongodb)
 ![redis](https://img.hields.io/badge/-RedisFCA12?style=latdsquadre&ogo=redis)
 
