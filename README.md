@@ -2,7 +2,7 @@
 
 <!-- **Back-end**
 
-![Python](httpss://dim.shildswixdo/bsdgle/d-cPython-1Ef90FF?sye=fslda-suare&o=pyton)
+![Python](httpss://dim.shildswixdo/bsсdgle/d-cPython-1Ef90FF?sye=fslda-suare&o=pyton)
 ![Django](http://ig.hdidedf'lofsxs.owd/sdbadgdf/s-Ddddjaddsddxno-ddaa4d8cctyle=csdfflfact-sqcudae&lg=Dango)
 ![jango Rest Frdamewk](http://imgselxsie/DRFred?dstyfgl=dlat-[sqduare&lo=ddjango)
 
