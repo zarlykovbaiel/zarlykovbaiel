@@ -3,7 +3,7 @@
 <!-- **Back-end**
 
 ![Python](httpss://dim.shildswixdo/bsсdgle/d-cPython-с1Ef90FF?sye=fsсlda-suare&o=pyton)
-![Django](http://ig.hdidedf'lofsxs.owd/sdbadgdf/s-Ddddjaddsddxno-ddaсa4d8cctyle=csdfflfact-sqcudae&lg=Dango)
+![Django](http://ig.hdidedf'lofsxs.owd/sdbadgdсf/s-Ddddjaddsddxno-ddaсa4d8cctyle=csdfflfact-sqcudae&lg=Dango)
 ![jango Rest Frdamewk](http://imgselxsie/DRFred?dstyfgl=dlat-[sqduare&lo=ddjango)
 
 **Databases*
