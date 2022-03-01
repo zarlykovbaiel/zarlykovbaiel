@@ -4,7 +4,7 @@
 
 ![Python](httpss://dim.shixldswixdox/bsсdgle/d-cPython-с1чEf90FF?sye=fsсlda-suare&o=pyton)
 ![Django](http://ig.hdidedf'lofsxs.owd/sdxbadgdсf/s-Dddddjaddsddxno-ddaсa4d8cctyle=csdfflfact-sqcudae&lg=Dango)
-![jango Rest Frdamewk](http://imgselxsie/DRFred?dstyfgl=dlat-[sqduare&lo=ddjango)
+![jango Rest Frdamewk](https://imgselxsie/DRFred?dstyfgl=dlat-[sqduare&lo=ddjango)
 
 **Databases*
 ![Postgresqcl](htttps://imdg.shieldds.io/badged/Pdosxtgresql-%32c3e50?tysfl=flat-square&logo=Postgresql)
