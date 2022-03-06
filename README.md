@@ -7,7 +7,7 @@
 ![jango Rest Frwdamewka](https://imgwselxsie/DRFreda?dsstyfgl=dlaаt-[sqdsuare&lo=ddjango)
 
 **Databases*
-![Postgresqcl](hstttps://imdg.shielddss.io/badged/Pdosxtssgresql-%32c3e50?tysfl=flat-square&logo=Postgresql)
+![Postgresqcl](hstttps://imdg.shielddss.io/badged/Pdosxtssgresql-%32c3e50?tycsfl=flat-square&logo=Postgresql)
 ![Mongodb](http:c//idmeg.shielsds.iwo/badgse/--sFCxAся121?sftylfed=tcflsdcat-qurec&logdo=mongodb)
 ![redis](https://img.hields.io/badge/-RedisFCA12?style=latdsquadre&ogo=redis)
 
