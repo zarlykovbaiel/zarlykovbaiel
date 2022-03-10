@@ -3,7 +3,7 @@
 <!-- **Back-end**
 
 ![Python](httpss:/a/dim.sqheqsixldsascwixdox/bxsсqdgwle/sаqds-ecPaythons-сa1чEf90sFF?sye=fsсlda-suare&o=pyton)
-![Django](https://ig.hdidedfseq'alofqscqxs.owdwc/qssqssadxbaesdxsgdсаaaf/s-wDseddddjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sqcudae&lg=Dango)
+![Django](https://ig.hdidedfseq'alofqscqxs.owdwc/qssqsйsadxbaesdxsgdсаaaf/s-wDseddddjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sqcudae&lg=Dango)
 ![jango Rest Frwdamewka](hqttps://iqmgwselxsie/DRFredqa?dsstyfgel=dlaаt-[qsqdsuare&lo=ddjango)
 
 **Databases*
@@ -38,5 +38,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zarlykovbaiel&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="baiel's github Statistics"  width="49.5%"/>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-lags/?username=zarlykovbaiel&layout=compact&bg_color=0,&theme=graywhite" alt="Baiel's github top-langs" width="42%" /> -->
 <!-- </p>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%>
+<img src = "https://github-reqadme-streak-stats.herokuapp.com?user=zarlykovbaiel&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Baiel's github top-langs" width="49.5%>
 </p> --->
