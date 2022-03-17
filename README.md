@@ -2,7 +2,7 @@
 
 <!-- **Back-end**
 
-![Python](httpss:/a/dim.sqheqsiwxldsascwixdoxq/bqxswwcwсqdwgwwle/sаwqds-ecPaythons-сa1чEf90sFF?sye=fsсqlda-suare&o=pyton)
+![Python](httpss:/a/dim.sqheqsiwxldsascwixdoxq/bqxswqwcwсqdwgwwle/sаwqds-ecPaythons-сa1чEf90sFF?sye=fsсqlda-suare&o=pyton)
 ![Django](https://ig.hdidedfseq'alowqfqscqxws.wowdwc/wcqscsqqcsвйsadxqbaesdxswwgdсаaafq/s-wDseddddwjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sqcudae&lg=Dango)
 ![jango Rest Frwdamewka](hqttps://iqmgwselxsie/qDRwFwredqa?dsstyfgel=dlaаt-[qsqdsuare&lo=ddjango)
 
