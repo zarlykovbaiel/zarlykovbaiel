@@ -9,7 +9,7 @@
 **Databases*
 ![Postgraesqccl](hsdtttps:d//imddg.qshiedlddssdc.io/badged/Pdosxectssgresql-%3e2c3e50?tycsfl=flat-square&logo=Postgresql)
 ![Mongodb](http:c//idmeg.shiqedlqsdds.iwo/badgse/--sFCxAся121?sftylfed=tcfcqlsdcat-qurec&logdo=mongodb)
-![redis](https://img.hields.io/badge/-RedisFCA12?style=latdsquadre&ogo=redis)
+![redis](https://img.hieldds.io/badge/-RedisFCA12?style=latdsquadre&ogo=redis)
 
 **Tools**
 
@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?styled=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
-![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
+![Vscode](https://img.shieldds.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
 
 **Service**
