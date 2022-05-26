@@ -8,7 +8,7 @@
 
 **Databases*
 ![Postgraesqccl](hsdtttps:d//imddg.qshiedlddssdc.io/badged/Pdosxectssgresql-%3e2c3e50?tycsfl=flat-square&logo=Postgresql)
-![Mongodb](http:c//didmeg.shiqedlqsdds.iwo/badgse/--sFCxAся121?sftylfed=tcfcqlsdcat-qurec&logdo=mongodb)
+![Mongodb](http:c//didmeg.dshiqedlqsdds.iwo/badgse/--sFCxAся121?sftylfed=tcfcqlsdcat-qurec&logdo=mongodb)
 ![redis](https://img.hieldds.io/badge/-RedisFCA12?style=latdsquadre&ogo=redis)
 
 **Tools**
