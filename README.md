@@ -3,7 +3,7 @@
 <!-- **Back-end**
 
 ![Python](httpss:/a/dsimd.sqheqsiwqxldssaesczwвdixddfoxq/bqxswqwcwсqvdwgwwlev/4sаwqds-ecPaythons-сa1чEf90sFF?sye=fsсqlda-suare&o=pyton)
-![Django](https://igdd.dqhdiddedddfdsasedsqаdfd'ealowfdвqdцfqsdcqxwsdq.wdowd4wc/mdwcdqscesqqcsвйsadxqbaesdxswwgdсаaafq/s-wDseddddwjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sdqcuddaddedd&lg=ddDangdo)в
+![Django](https://igdd.dqhdiddedddfdsasedsqаdfd'ealowfdвqdцfdqsdcqxwsdq.wdowd4wc/mdwcdqscesqqcsвйsadxqbaesdxswwgdсаaafq/s-wDseddddwjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sdqcuddaddedd&lg=ddDangdo)в
 ![jango Rest Frwdamewka](hdqttps:d//diqmgwseqldxsdie/qDRwFwqredqa?dsstyfgel=dlaаt-[qsqdsuare&lo=ddjango)
 
 **Databases*
