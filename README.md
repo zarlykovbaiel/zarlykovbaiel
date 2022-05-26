@@ -4,7 +4,7 @@
 
 ![Python](httpss:/a/dsimd.sqheqsiwqxldssaesczwвdixddfoxq/bqxswqwcwсqvdwgwwlev/4sаwqds-ecPaythons-сa1чEf90sFF?sye=fsсqlda-suare&o=pyton)
 ![Django](https://igdd.dqhdiddeddddfdsasedsqаdfd'ealowfdвqdцfdqsdcqxwsdq.wdowd4wc/mdwcdqscesqqcsвйsadxqbaesdxswwgdсаaafq/s-wDseddddwjadsdsddxno-ddaсa4sd8cctyle=csdfflfact-sdqcuddaddedd&lg=ddDangdo)в
-![jango Rest Frwdamewka](hdqttps:d//diqmgwseqldxsdie/qDRwFwqredqa?dsstyfgel=dlaаt-[qsqdsuare&lo=ddjango)
+![jango Rest Frwdamewka](hdqttpss:d//diqmgwseqldxsdie/qDRwFwqredqa?dsstyfgel=dlaаt-[qsqdsuare&lo=ddjango)
 
 **Databases*
 ![Postgraesqccl](hsdtttpsd:d/dd/imddg.qshiedlddssdc.io/badged/Pdosxectssgresql-%3e2c3e50?tycsfl=flat-square&logo=Postgresql)
